@@ -6,6 +6,9 @@ using Rhino.Input.Custom;
 using System;
 using System.Collections.Generic;
 
+using SaturnProject.SaturnCapture;
+using System.Drawing;
+
 namespace SaturnProject
 {
     public class SaturnCommand : Command
@@ -28,6 +31,12 @@ namespace SaturnProject
             // TODO: start here modifying the behaviour of your command.
             // ---
             RhinoApp.WriteLine("The {0} command is not implimented.", EnglishName);
+
+            Capture capture = new Capture();
+
+            Bitmap bmp = new Bitmap(100,100);
+            capture.DoCapture("noname", ref bmp);
+            bmp.Save("C:\\Users\\ksteinfe\\Desktop\\test.bmp");
 
             // ---
             return Result.Success;
