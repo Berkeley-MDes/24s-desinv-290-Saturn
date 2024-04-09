@@ -21,7 +21,7 @@ namespace SaturnProject
         public static SaturnCommand Instance { get; private set; }
 
         ///<returns>The command name as it appears on the Rhino command line.</returns>
-        public override string EnglishName => "SaturnCommand";
+        public override string EnglishName => "SaturnTestCommand";
 
         protected override Result RunCommand(RhinoDoc doc, RunMode mode)
         {
