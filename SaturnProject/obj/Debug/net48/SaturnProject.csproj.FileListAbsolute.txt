@@ -1,0 +1,9 @@
+D:\GitHub\24s-desinv-290-Saturn\SaturnProject\bin\Debug\net48\SaturnProject.rhp
+D:\GitHub\24s-desinv-290-Saturn\SaturnProject\bin\Debug\net48\SaturnProject.pdb
+D:\GitHub\24s-desinv-290-Saturn\SaturnProject\obj\Debug\net48\SaturnProject.csproj.AssemblyReference.cache
+D:\GitHub\24s-desinv-290-Saturn\SaturnProject\obj\Debug\net48\SaturnProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\24s-desinv-290-Saturn\SaturnProject\obj\Debug\net48\SaturnProject.AssemblyInfoInputs.cache
+D:\GitHub\24s-desinv-290-Saturn\SaturnProject\obj\Debug\net48\SaturnProject.AssemblyInfo.cs
+D:\GitHub\24s-desinv-290-Saturn\SaturnProject\obj\Debug\net48\SaturnProject.csproj.CoreCompileInputs.cache
+D:\GitHub\24s-desinv-290-Saturn\SaturnProject\obj\Debug\net48\SaturnProject.rhp
+D:\GitHub\24s-desinv-290-Saturn\SaturnProject\obj\Debug\net48\SaturnProject.pdb

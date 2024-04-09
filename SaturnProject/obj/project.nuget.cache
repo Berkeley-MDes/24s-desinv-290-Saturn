@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Pjm89MVnShRRpr7cGbeGJy3LeUKqIu6Uda/OzXuwlZDWlRbmV/rTOKwOGsHe/Vt5GVJC9XWiFxw2LVpQ44u68w==",
+  "success": true,
+  "projectFilePath": "D:\\GitHub\\24s-desinv-290-Saturn\\SaturnProject\\SaturnProject.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ksteinfe\\.nuget\\packages\\rhinocommon\\7.13.21348.13001\\rhinocommon.7.13.21348.13001.nupkg.sha512"
+  ],
+  "logs": []
+}
